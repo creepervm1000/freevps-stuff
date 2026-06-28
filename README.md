@@ -12,6 +12,7 @@ now i have 2 here. 1: cloudsigma, they offer a 7day trial. any os, SLOW VNC you 
 
 <br>
 browseruse bux: well they call it agency but i still refer to it as bux. they give u aws env you can use after linking a tg bot and claude code or codex. now you actually dont need to do this since u can use the network tab to see the shell url but i wont go into detail here. u can setup ssh on it. better specs than cloudsigma. same 7 day length. only port 22 open (they use aws and its security policys + dynamic ip)
+
 # 5 the ones where u get an agent that can run cmds
 these are vpses KINDA. tho an agent manages it. if you get a free openclaw one u can probably run smth like sshx in the background by ASKING the agent. the agent will most likely comply. examples:<br>
 kiloclaw (by kilocode, uses kilo gateway by default.) (7 day trial and its openclaw)<br>z.ai agent (this is free forever, but you CANT run stuff in the background, however it CAN have crons with 5 minutes minimum)
