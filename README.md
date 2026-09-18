@@ -4,7 +4,7 @@ basically a list of free vps providers (these are mostly only trials like you ne
 first of all we start with a classic. thats oracle cloud. now i heard its rly hard to get this even with a cc (i do NOT have one) but they offer some good resource amounts on ARM and a e2micro instance on x86 (no idea of the specs there)<br>
 GCP, now its easier to get this tho it needs a debit or credit card. you get a always free e2 micro instance (these are pure garbage but hey its free forever)
 # 2 the trial ones that need CCs
-basically everything has trials, oracle cloud 300$, gcp 300$, aws 100$ (additional 100$ extra), azure (idk how much here), kamatera (kinda suspicious, try at your own risk as theyre marketed as dont need cc but do.), linode 100$
+basically everything has trials, oracle cloud 300$, gcp 300$, aws 100$ (additional 100$ extra), azure (idk how much here), kamatera (~~kinda suspicious, try at your own risk as theyre marketed as dont need cc but do.~~ update: i tested it, its legit BUT there are some upsells where u dont know itl charge your card, accepts visa gift card), linode 100$
 # 3 the no cc ones that are always free
 theres none. litterally none. if you find one its prob temp or a scam. if u find a real one then keep it for urself as if it gets popular then people will abuse it
 # 4 the no cc trials
